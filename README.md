@@ -21,13 +21,13 @@ pip install -r requirements.txt
 3. Ejecuta la aplicación:
 streamlit run app.py
 
-Uso
+## Uso
 Una vez que la aplicación está en ejecución:
 
 Carga las imágenes de las tablas nutricionales de los productos que deseas comparar.
 Haz clic en el botón "Comparar" para ver el análisis.
 Los resultados se mostrarán en pantalla y podrás descargar un informe detallado.
 
-Contribución
+## Contribución
 Las contribuciones a este proyecto son bienvenidas. Si tienes sugerencias para mejorar la aplicación, siéntete libre de abrir un 'issue' o enviar un 'pull request'.
 
