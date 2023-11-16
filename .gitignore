@@ -1,0 +1,32 @@
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache
+.pycache
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# IDE - PyCharm
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
